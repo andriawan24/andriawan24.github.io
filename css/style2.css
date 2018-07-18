@@ -1,4 +1,19 @@
+body{
+	height:100%;
+}
+.gambar{
+	background-image:url("../img/comingsoon.png");
+	
+	height:100%;
 
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size:cover;
+
+	text-align:center;
+	padding-top:30%;
+}
 .merah {
 	background-color: grey !important;
 	border-radius: 90px;
@@ -6,4 +21,14 @@
 .grey{
 	background-color:grey !important;
 	border-bottom: 0;
+}
+nav{
+	height: 100px;
+}
+h3{
+	color:white;
+}
+.aplikasi{
+	background-color:#efefef;
+	height:100%;
 }
