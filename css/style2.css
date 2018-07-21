@@ -32,3 +32,8 @@ h3{
 	background-color:#efefef;
 	height:100%;
 }
+.footer {
+    height:50%;
+    background-color: #3c3636;
+   	color: white;    
+}
