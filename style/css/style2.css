@@ -1,0 +1,39 @@
+
+body{
+	margin:0;
+}
+.gambar{
+	background-image:url("../img/kopi.jpg");
+	background-size: cover;
+	height:100%;
+	width:100%;
+	padding:18%;	
+}
+.merah {
+	background-color: grey !important;
+	border-radius: 90px;
+}
+.grey{
+	background-color:grey !important;
+	border-bottom: 0;
+}
+nav{
+	height: 100px;
+}
+h3{
+	color:white;
+}
+.gambar h2{
+	color:white;
+	text-align:center;
+	font-size:45pt;
+}
+.gambar p{
+	font-size:24pt;
+	color:lightblue;
+	text-align:center;
+	font-weight:bolder;
+}
+.about{
+	background: #fefefe;
+}

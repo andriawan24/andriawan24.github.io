@@ -93,10 +93,11 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
   -webkit-text-decoration: underline dotted;
-  text-decoration: underline dotted;
+  text-decoration: none;
   cursor: help;
   border-bottom: 0;
 }
+
 address {
   margin-bottom: 1rem;
   font-style: normal;
@@ -3945,7 +3946,7 @@ tbody.collapse.show {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0.4rem;
 }
 
 .navbar > .container,
